@@ -1,36 +1,35 @@
 # 🖤 FIAPP
-O aplicativo do maior ecossistema de tecnologia do Brasil apresenta seu app para seus alunos (criado por uma aluna 😸).
+The app of the largest technology ecosystem in Brazil presents its app to its students (created by a student 😸).
 
-
-# 💻 Técnicas e Tecnologias
+# 💻 Techniques and Technologies
 - Expo
-- Componentes React Native
-- Componentes customizados
-- Suporte a telas
+- React Native Components
+- Custom components
+- Screens support
 - StyleSheet
 - Dimensions
 
-# 🖊 Pré-requisitos
-Para visualizar a seguinte aplicação, realize os seguintes passos:
+# 🖊  Prerequisites
+To view the following application, perform the following steps:
 
-**PARTE 1**
-1. Clique no botão `Code`
-2. Baixe o ZIP
-3. Descompacte o arquivo
+**PART 1**
+1. Click on the `Code` button
+2. Download the ZIP
+3. Unzip the file
 
 
-**PARTE 2**
-1. Abra uma conta no Expo Mobile. Comece por [aqui]( https://expo.dev/signup?redirect_uri=https%3A%2F%2Fsnack.expo.dev%2F%40beatrizsanti%2Fsnack-0%3FhideQueryParams%3Dtrue
+**PART 2**
+1. Open an account at Expo Mobile. Start [here]( https://expo.dev/signup?redirect_uri=https%3A%2F%2Fsnack.expo.dev%2F%40beatrizsanti%2Fsnack-0%3FhideQueryParams%3Dtrue
 ) 
-2. Clique em `New Snack`
-3. Clique nos três pontinhos
+2. Click on `New Snack`
+3. Click on the three dots
 4. Import files
-5. Procure e selecione nos seus arquivos pelo código deste repositório
-6. clique em Launch Snack na lateral direita
+5. Browse and select your files for the code in this repository
+6. Click on Launch Snack on the right side
 
 
 
-# Alguns dados sobre o repositório
+# Some data about the repository
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/fiapp?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/M1relly/fiapp?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/M1relly/fiapp?style=for-the-badge)
