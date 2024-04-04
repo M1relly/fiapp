@@ -28,7 +28,7 @@ To view the following application, perform the following steps:
 6. Click on Launch Snack on the right side
 
 # 📲 Preview
-<img src="fiapp_preview.png" alt="Preview do app" style="width: 50%; height: auto;">
+<img src="fiapp/fiapp_preview.png" alt="Preview do app" style="width: auto; height: auto;">
 
 # Some data about the repository
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/fiapp?style=for-the-badge)
