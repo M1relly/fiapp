@@ -31,8 +31,6 @@ To view the following application, perform the following steps:
 
 # Some data about the repository
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/fiapp?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/M1relly/fiapp?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/M1relly/fiapp?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/M1relly/fiapp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/M1relly/fiapp?style=for-the-badge)
 
